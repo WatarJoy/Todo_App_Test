@@ -30,8 +30,8 @@ A lightweight task management application with persistent storage and clean user
 
 1. Clone the repository:
    ```
-   git clone https://github.com/WatarJoy/chat-app.git
-   cd chat-app
+   git clone https://github.com/WatarJoy/Todo_App_Test.git
+   cd Todo_App_Test
    ```
 
 ## Usage
