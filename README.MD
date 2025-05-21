@@ -48,4 +48,4 @@ Or alternatively:
 node run.js
 ```
 
-The application will be available at `http://localhost:5174` by default.
+The application will be available at `http://localhost:5173` by default.
